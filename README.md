@@ -1,5 +1,5 @@
 # ossu_projects
-I will be using this repo to store some of the homeworks and final projects (where applicable) for the OSSU Computer Science courses I've taken.
+I will be using this repo to store some of the homeworks and final projects (where applicable) for the [OSSU Computer Science](https://github.com/ossu/computer-science#curriculum) courses I've taken.
 
 ## Current Progress
 - [x] [How to Code: Simple Data](#UBC-How-to-Code-Simple-Data)
